@@ -22,9 +22,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### How to Embed asciidocs into react components
+## How to Embed asciidocs into react components
 
-###Project Setup
+### Project Setup
 ```bash
 create-react-app ui
 cd ui
